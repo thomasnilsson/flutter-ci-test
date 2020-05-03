@@ -1,5 +1,7 @@
 # example_package
 
+[![Codemagic build status](https://api.codemagic.io/apps/5eae71d0513b9fa080b25399/5eae71d0513b9fa080b25398/status_badge.svg)](https://codemagic.io/apps/5eae71d0513b9fa080b25399/5eae71d0513b9fa080b25398/latest_build)
+
 CI test
 
 ## Getting Started
